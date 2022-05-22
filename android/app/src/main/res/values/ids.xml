@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="etIP" type="id" />
+    <item name="etPort" type="id" />
+    <item name="tvMessages" type="id" />
+    <item name="etMessage" type="id" />
+    <item name="btnSend" type="id" />
+    <item name="btnConnect" type="id" />
+</resources>
